@@ -1,1 +1,6 @@
 # Dokumentation methodische Entscheidungen und Änderungen
+Schwerpunkt Review: Kein reiner Fokus auf die technische oder Lehrkräfte Seite. Untersucht werden die Möglichkeiten beide Seiten zu verbinden, um den Teacher in the loop Ansatz zu konkretisieren. Dies Möglichkeiten werden in Bezug auf die Förderung von motivationaler Selbstregulation untersucht. 
+
+Die Recherchestrategie kann auf zwei Säulen stehen die verglichen werden: Stärken und Schwächen in der Förderung durch Lehrkräfte und Stärken und Schwächen in der Förderung durch KI. Im Anschluss werden Verknüpfungen gesucht wie die beiden Seiten verbunden werden können. 
+Die Recherstrategie kann auf einer Säule stehen: Untersuchung der Nutzung von KI durch Lehrkräfte, welche Möglichkeiten und Grenzen tauchen hier auf. Ableitung von Strategien zur Vernetzung von KI und Lehrkräften in der Förderung von motivationaler Selbstregulation. Strategien werden in Bezug auf die theroetischen Grundlagen der Förderung von motivationaler Selbstregulation beschrieben. 
+Die Recherchestrategie wird auf drei Säulen aufgebaut: Förderung von SRL durch Lehrkräfte, Förderung durch KI, Nutzung von KI durch Lehrkräfte. Durch Vergleich der Publikationen werden Strategien zur Vernetzung von Lehrkräften und KI zur Förderung von SRL abgeleitet. 
