@@ -1,6 +1,7 @@
 # Thema
 Teachers in the loop, Supporting teachers through AI:
 System functions for diagnosing, interpreting, and fostering motivational self‑regulation in schools – a systematic review# Forschungsfragen
+Welche Funktionen übernehmen KI‑Systeme im Vergleich zu menschlicher Förderung – und wo ergänzen sie sich?
 
 ## Forschungsfrage 1: Funktionen und Einsatzszenarien von KI
 
