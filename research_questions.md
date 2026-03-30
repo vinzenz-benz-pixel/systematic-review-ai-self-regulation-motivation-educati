@@ -1,7 +1,6 @@
 # Thema
-Teachers in the loop, Supporting teachers through AI:
-System functions for diagnosing, interpreting, and fostering motivational self‑regulation in schools – a systematic review
-This review does not aim to evaluate the effectiveness of teachers or AI systems. Instead, it systematically analyses which functional roles are attributed to AI‑supported systems in supporting teachers across different stages of motivational self‑regulation.
+Teachers in the loop: funktional patterns in diagnosing, interpreting, and fostering motivational self‑regulation in schools – a systematic review
+This review is a systematically analyses about which functional roles are attributed to AI‑supported systems in supporting teachers across different stages of fostering motivational self‑regulation by students in school and vocational education and training. 
 
 ## Forschungsfrage 1: Funktionen und Einsatzszenarien von KI
 
