@@ -3,8 +3,9 @@ Hybrid Intelligence for supporting motivation and motivational self‑regulation
 
 Wie kann SRL während des Lernens valide gemessen werden?
 Wie werden Übergänge zwischen Regulierungsgraden bestimmt?
-Wie lassen sich langfristige Effekte auf SRL nachweisen?
 Wie vermeidet man neue Abhängigkeiten von KI?
+KI nach Funktionen, nicht nach Akteuren ordnen
+analyse der Arbeitsverteilung zwischen Mensch & KI
 
 ## Forschungsfrage 1: Funktionen und Einsatzszenarien von KI
 
@@ -12,7 +13,7 @@ Wie vermeidet man neue Abhängigkeiten von KI?
 
 ## Forschungsfrage 2: Effektivität und Teacher-in-the-Loop-Modelle
 
-"Wie effektiv sind KI-gestützte Interventionen zur Förderung der motivationalen und metakognitiven Selbstregulation, wenn sie im Kontext eines Teacher-in-the-Loop-Modells implementiert werden, und welche Lehrkraftkompetenzen sind für erfolgreiche Implementierung erforderlich?"
+"Wie können Verteilungen von Funktionen zwischen Lehrkräften, Lernenden und KI können zu Förderung von motivationaler Selbstregulation gestaltet werden."
 
 ---
 
