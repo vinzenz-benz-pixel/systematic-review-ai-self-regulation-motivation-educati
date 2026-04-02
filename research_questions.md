@@ -1,10 +1,14 @@
 # Thema
-Teachers in the loop: funktional patterns in diagnosing, interpreting, and fostering motivational self‑regulation in schools – a systematic review
-This review is a systematically analyses about which functional roles are attributed to AI‑supported systems in supporting teachers across different stages of fostering motivational self‑regulation by students in school and vocational education and training. 
+Hybrid Intelligence for supporting motivation and motivational self‑regulation in education: A systematic review of human–AI functional roles and shared regulation
+
+Wie kann SRL während des Lernens valide gemessen werden?
+Wie werden Übergänge zwischen Regulierungsgraden bestimmt?
+Wie lassen sich langfristige Effekte auf SRL nachweisen?
+Wie vermeidet man neue Abhängigkeiten von KI?
 
 ## Forschungsfrage 1: Funktionen und Einsatzszenarien von KI
 
-"Welche Systemfunktionen erfüllt generative KI zur Diagnose, Interpretation und Förderung der motivationalen Selbstregulation von Lernenden in schulischen Kontexten, und wie unterscheiden sich diese Funktionen von traditionellen lehrkraftgestützten Ansätzen?"
+"Welche Systemfunktionen erfüllt generative KI zur Diagnose, Interpretation und Förderung der motivationalen Selbstregulation von Lernenden in schulischen Kontexten?
 
 ## Forschungsfrage 2: Effektivität und Teacher-in-the-Loop-Modelle
 
