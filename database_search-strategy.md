@@ -11,7 +11,7 @@
 ## 1. Core Concepts (mandatory)
 
 **Motivation and Self-Regulation (SRL)**
-- Motivational self-regulation
+- motivational self-regulation
 - Self-regulated learning
 - Self-regulated learning
 - Learning motivation
