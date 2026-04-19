@@ -1,71 +1,71 @@
-# Datenbanken
+# Databases
 
 - PubPsych
 - ERIC
-- FIS Bildung
+- FIS Education
 - APA PsycInfo
-- DOAJ (optional für Grenzfälle)
+- DOAJ (optional for edge cases)
 
-# Suchstrategie
+# Search Strategy
 
-## 1. Kernkonzepte (mandatory)
+## 1. Core Concepts (mandatory)
 
-**Motivation und Selbstregulation (SRL)**
-- Motivationale Selbstregulation
+**Motivation and Self-Regulation (SRL)**
+- Motivational self-regulation
 - Self-regulated learning
-- Selbstreguliertes Lernen
-- Lernmotivation
-- motivational self-regulation
+- Self-regulated learning
+- Learning motivation
+- Motivational self-regulation
 
-**Generative KI**
-- Generative KI / Generative AI
+**Generative AI**
+- Generative AI
 - Large Language Models / LLM
 - Natural Language Processing / NLP
-- ChatGPT, GPT-Modelle
-- KI-gestützte Lernumgebungen
+- ChatGPT, GPT-Models
+- AI-supported learning environments
 
 **Teacher-in-the-Loop (MANDATORY)**
 - Teacher-in-the-loop
-- Human-in-the-loop (mit Lehrkraft-Kontext)
-- Human-AI collaboration (Bildung)
+- Human-in-the-loop (in educational context)
+- Human-AI collaboration (Education)
 - AI-supported teaching
-- Lehrkraft-Beteiligung
-- aktive Lehrkraft-Rolle
+- Teacher participation
+- Active teacher role
 
-## 2. Kontextuelle Begriffe
+## 2. Contextual Terms
 
-**Bildungskontexte**
-- Schulische Bildung / School
-- Sekundäre Bildung / Secondary Education
-- Berufliche Bildung / Vocational Education
-- Hochschulbildung / Higher Education
+**Educational Contexts**
+- School education
+- Secondary Education
+- Vocational Education
+- Higher Education
 - K-12 / Primary and Secondary
-- Schüler:innen / Students / Auszubildende
-- NICHT: nur Hochschule oder reine akademische Kontexte
+- Students / Trainees
+- NOT: only higher education or purely academic contexts
 
-**Funktionsverteilungen & Rollen**
-- Funktionsverteilung
+**Function Distribution & Roles**
+- Function distribution
 - Role distribution
-- Task allocation (Mensch-KI)
+- Task allocation (Human-AI)
 - Learning analytics + teacher
 
-## 3. Messinstrumente (optional, aber wertvoll)
+## 3. Measurement Instruments (optional but valuable)
 
 - MSLQ (Motivated Strategies for Learning Questionnaire)
 - SRL-SDS (Self-Regulated Learning Self-Report Scale)
 - ILS (Index of Learning Styles)
-- Validierte Messinstrumente Selbstregulation
+- Validated measurement instruments for self-regulation
 
-## 4. Ausschluss-Begriffe (NOT-Operatoren)
+## 4. Exclusion Terms (NOT Operators)
 
-- NOT: "reine KI-Systeme" (ohne Lehrkraft)
-- NOT: "Theoretische Arbeiten" (ohne empirische Daten)
-- NOT: "Technische KI-Entwicklung" (ohne Bildungsbezug)
-- NOT: "Passive Lehrkraft-Überwachung"
-- NOT: "Grauer Literatur" (Preprints, Blogs, nicht-begutachtete Konferenzberichte)
+- NOT: "pure AI systems" (without teacher)
+- NOT: "Theoretical papers" (without empirical data)
+- NOT: "Technical AI development" (without educational relevance)
+- NOT: "Passive teacher monitoring"
+- NOT: "Grey literature" (Preprints, Blogs, non-peer-reviewed conference reports)
 
 ---
 
-## Suchformeln pro Datenbank
+## Search formulas per database
 
 ### ERIC (Education Resources Information Center)
