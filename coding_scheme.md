@@ -29,21 +29,14 @@ This coding scheme is designed to support a theory‑driven systematic review fo
   - Mixed‑methods
 
 ## Block B: Theoretical Framing of Self‑Regulation
-## Coding Scheme: Theoretical Framing of Self‑Regulation
 ### Reference Framework: Wortha et al. (2026)
 
 This coding block operationalises the integrative framework of self‑regulation in education proposed by Wortha et al. (2026) as the conceptual reference model for the review.
 Rather than comparing different SRL models, the coding maps theoretical concepts, strategies, and interventions described in the studies onto the framework’s core components to enable systematic synthesis.
 
----
-
 ### A. Explicit Theoretical Reference (Descriptive)
 
-- **Explicit reference to Wortha et al. (2026)**
-  - Yes
-  - No
-
-- **Explicit reference to another SRL model**
+- **Explicit reference SRL model**
   - Zimmerman
   - Pintrich
   - Winne & Hadwin
@@ -52,16 +45,10 @@ Rather than comparing different SRL models, the coding maps theoretical concepts
   - Other (specify)
   - Not specified
 
-*Note: These variables document theoretical self‑positioning but are not used as primary analytic categories.*
-
----
-
 ### B. Mapping onto the Wortha Framework (Core Analytic Coding)
 
 For each study, code which components of the Wortha framework are explicitly or implicitly addressed.
 Multiple components may be coded.
-
----
 
 #### B1. Personal Dispositions
 (Relatively stable learner characteristics)
@@ -72,8 +59,6 @@ Multiple components may be coded.
 - ⬜ Growth mindset or related constructs
 - ⬜ Personal dispositions acknowledged but not targeted
 - ⬜ Not addressed
-
----
 
 #### B2. Driving Forces
 (Situational motivational and emotional processes)
@@ -86,8 +71,6 @@ Multiple components may be coded.
 - ⬜ Motivation as secondary/supportive factor
 - ⬜ Driving forces not addressed
 
----
-
 #### B3. Limited Resources
 (Cognitive and executive constraints)
 
@@ -97,8 +80,6 @@ Multiple components may be coded.
 - ⬜ Resource constraints explicitly discussed
 - ⬜ Resource constraints implicitly assumed
 - ⬜ Not addressed
-
----
 
 #### B4. Learning Activities
 (Actual learning and regulation activities)
