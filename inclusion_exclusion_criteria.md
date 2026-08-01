@@ -1,23 +1,18 @@
 # Einschlusskriterien
 
 ## Thematisch
-- **Motivation und motivationale Selbstregulation (SRL)** von Lernenden im Fokus
-- **Generative KI/LLM/NLP** als Interventions- oder Unterstützungstool
-- **Schulische oder Bildungskontexte** (alle Schulstufen: Primar-, Sekundar-, Hochschulbildung, berufliche Bildung)
-- **Mandatory: Teacher-in-the-Loop Modelle** oder aktive Lehrkraft-Beteiligung in der Mensch-KI-Zusammenarbeit
-- Analyse von **Funktionsverteilungen zwischen Lehrkräften, Lernenden und KI**
+- **Self-Regulation (SRL)** learning process and SRL deminsions 
+- **Generative AI/LLM/NLP** as intervention or supporting tool
+- **educational kontext** (VET, higher education, primary school
+- **interaction AI, teachers, students** collaborative use of AI
 
 ## Methodisch
 - **Empirische Publikationen**: quantitativ, qualitativ, experimentell, Interventionsstudien
-- Arbeiten mit **direkter oder indirekter Evaluation** der Auswirkungen auf SRL/Motivation
-- Einsatz von validierten **Messinstrumenten für SRL**, insbesondere:
-  - **MSLQ** (Motivated Strategies for Learning Questionnaire, Pintrich & De Groot)
-  - **SRL-SDS** (Self-Regulated Learning Self-Report Scale, Zimmerman & Martinez-Pons)
-  - **ILS** (Index of Learning Styles, Felder & Silverman)
-  - Andere etablierte und validierte Instrumente zur SRL-Messung sind ebenfalls akzeptabel
+- **direct oder indirect Evaluation** outcome regarding SRL
+- **measurement SRL**
 
 ## Sprache und Publikationstyp
-- Veröffentlicht in **Englisch oder Deutsch**
+- **Englisch or german**
 - Peer-Review-Publikationen (Zeitschriftenartikel, begutachtete Konferenzpapiere)
 
 ---
