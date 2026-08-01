@@ -1,19 +1,23 @@
 # Thema
-Hybrid Intelligence for supporting motivation and motivational self‑regulation in education: A systematic review of human–AI functional roles and shared regulation
+A Living Systematic Review about Hybrid Intelligence in education: Functional distribution of roles between humans and AI to support self-regulation
 
-Wie kann SRL während des Lernens valide gemessen werden?
-Wie werden Übergänge zwischen Regulierungsgraden bestimmt?
-Wie vermeidet man neue Abhängigkeiten von KI?
-KI nach Funktionen, nicht nach Akteuren ordnen
-analyse der Arbeitsverteilung zwischen Mensch & KI
+How role and function distribution for fostering SRL can be looks like?
+What is the impact of genAI in collaborative fostering SRL?
+Which possiblitys are offer through using genAI?
+GenAI integretaion reagarding functions not supstition of actors.
 
-## Forschungsfrage 1: Funktionen und Einsatzszenarien von KI
+## Research Question 1: 
 
-"Welche Systemfunktionen erfüllt generative KI zur Diagnose, Interpretation und Förderung der motivationalen Selbstregulation von Lernenden in schulischen Kontexten?
+"What functions are attributed to AI models or agents in supporting self-regulated learning?"
 
-## Forschungsfrage 2: Effektivität und Teacher-in-the-Loop-Modelle
+## Research Question 2: 
 
-"Wie können Verteilungen von Funktionen zwischen Lehrkräften, Lernenden und KI können zu Förderung von motivationaler Selbstregulation gestaltet werden."
+"Which tasks and role distributions are required to support self-regulated learning?"
+
+## Research Question 3:
+
+"Which challenges and requirements arise for AI models or agents, teachers, learners, and learning environments in supporting self-regulated learning?"
+
 
 ---
 
