@@ -53,5 +53,6 @@ This coding scheme is designed to support a theory‑driven systematic review fo
 ### Block D. Implications for Generative AI
 
 | **Generative AI** | generative AI, generative artificial intelligence, GenAI, large language model*, LLM*, foundation model*, transformer model*, conversational AI, AI chatbot*, intelligent tutoring system*, generative model*, text generation, AI-generated content, machine-generated content, ChatGPT, GPT, Copilot, Gemini, Claude, AI writing assistant*, AI-powered tutor*, educational chatbot*, prompt engineering, prompt-based learning |
+
 ---
 
