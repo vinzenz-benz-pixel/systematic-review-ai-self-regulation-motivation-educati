@@ -1,4 +1,4 @@
-# Kodierschmea
+# Coding scheme
 ## Hybrid Intelligence for Supporting Motivational Self‑Regulation in Education
 
 This coding scheme is designed to support a theory‑driven systematic review focusing on
