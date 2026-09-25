@@ -8,44 +8,40 @@ Learning Analytics as part of Databased Education becomes increasing interest. A
 
 ## Research Objectives
 
-- **AI in learning analytics** in supporting teachers with data collection, interpretation, and designing intervention opportunities for self-regulated learning
-- **Understand role of learning analytics** 
-- **Identify patterns in use of learning analytics** between generative AI and teacher expertise in supporting motivational and metacognitive self-regulation
-- **Recognize challenges and requirements** for successful us of AI in learning analytics
+-**AI based learning analytics** data collection, analysing, interpretation and visualisation
+- **decision making education**  Gen AI based learning analytics for desicion making in education through educator and students
+- ** ** 
 
 ## Research Questions
 
 ### Research Question 1
-*What functions are attributed to AI models or agents in supporting self-regulated learning?*
+*How are AI-based approaches used to collect, analyze, interpret, and visualize learner data in educational settings?*
 
 ### Research Question 2
-*Which tasks and role distributions are required to support self-regulated learning?*
+*What possibilities do Gen AI-driven learning analytics offer for supporting educational decision-making by students and educators?*
 
 ### Research Question 3
-*Which challenges and requirements arise for AI models or agents, teachers, learners, and learning environments in supporting self-regulated learning?*
+*What roles and interaction patterns are reported for students and educators in the use of AI-driven learning analytics?*
 
 ## Key Research Areas
 
-- **Self-Regulated Learning (SRL)**: Motivational and metacognitive dimensions of SRL
-- **Data Management**: Using AI for enhanced data collection and interpretation
-- **Teacher-in-the-Loop**: Collaborative AI-teacher systems where teachers retain active, meaningful roles
-- **Hybrid Intelligence**: Functional complementarity of AI and human expertise
+- **learning Analytics**: Motivational and metacognitive dimensions of SRL
+- **Gen AI**: Using AI for enhanced data collection and interpretation
+- **Decision Making**: Collaborative AI-teacher systems where teachers retain active, meaningful roles
+- **collaboration**: Functional complementarity of AI and human expertise
 
 ## Methodology
 
-- **Systematic Review** following PRISMA guidelines
-- **Living Review** approach to continuously incorporate emerging research
+- **Living Systematic Review** following PRISMA guidelines
 - **Empirical Research Focus**: Quantitative, qualitative, experimental, and intervention studies
 - **Language**: English and German publications
 - **Peer-Reviewed Sources Only**
 
 ## Databases
 
-- PubPsych
 - ERIC (Education Resources Information Center)
 - FIS Education
-- APA PsycInfo
-- DOAJ (for edge cases)
+- PsychPorta
 
 ## Repository Structure
 
@@ -58,7 +54,7 @@ Learning Analytics as part of Databased Education becomes increasing interest. A
 
 ## Status
 
-This is an active Living Systematic Review. Recent updates focus on refining search terminology to emphasize **Hybrid Intelligence**, **collaborative learning**, and **teacher-in-the-loop** approaches in AI-supported education.
+This is an active Living Systematic Review. Recent updates focus on refining search terminology to emphasize **learning analytics**, **Gen AI**, and **Collaboration** approaches in AI-supported education.
 
 ---
 
