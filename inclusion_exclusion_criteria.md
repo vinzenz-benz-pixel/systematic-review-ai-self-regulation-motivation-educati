@@ -1,10 +1,5 @@
 # Inclusion Criteria
 
-## Research Focus: Self-Regulated Learning and Learning Processes
-- Studies that focus on self-regulation in the learning process or on dimensions of self-regulated learning.
-- Studies that examine learning processes, motivation, learning strategies, or self-management in educational or training contexts.
-- Studies that analyze the influence of AI on self-regulation, learning behavior, or the design of learning processes.
-
 ## Educational Context
 - Studies conducted in educational or training environments, including K–12 education, higher education, vocational education and training (VET), workplace learning, and professional development.
 - Studies taking place in school, academic, or professional learning contexts.
