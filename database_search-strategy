@@ -3,21 +3,9 @@
 PubPsych
 ERIC
 FIS Bildung
-educatinal research context
 
-# search strategy 
+# Search strategy
 
-self-regulation
-collaborative learning 
-human in the loop
-generative AI
-foster self-regulation
-students AND apprentecis
-Vocational Education and Training UND School AND Higher Education 
-
-## Interaktion KI, Lehrkräfte, Auszubildende:
-human–AI collaboration
-AI‑supported teaching OR learning
-human‑in‑the‑loop
-AI‑assisted decision‑making
-learning analytics + teacher + students AND apprentecis
+("artificial intelligence" OR AI OR "gen* AI" OR ChatGPT OR LLM OR "educational AI")
+AND ("learning analytics" OR "educational data mining" OR "predictive analytics" OR "monitoring" OR dashboard* OR "data visualization")
+AND (education OR learning OR teaching OR school* OR student* OR classroom* OR "vocational education" OR VET OR apprentice* OR training)
