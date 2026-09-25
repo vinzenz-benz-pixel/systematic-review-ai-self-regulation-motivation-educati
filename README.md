@@ -1,17 +1,17 @@
-# Systematic Review: Hybrid Intelligence in Education and Self-Regulated Learning
+# A living systematic review from learner data to educational practice: The role of AI-driven learning analytics in education
 
-A Living Systematic Review investigating how Hybrid Intelligence—the functional distribution of roles between humans and AI—can support self-regulated learning (SRL) in educational settings.
+A Living Systematic Review examine how AI is used in learning analytics and which impact has it for teacher, students, apprentices, trainer in practice and other stakholder.
 
 ## Topic
 
-This review examines how generative AI and human teachers can work together synergistically to support self-regulated learning, identifying key collaboration points, strengths of each agent, and possibilities for AI-enhanced support. The focus is on **functional distribution and collaborative roles** rather than AI replacing human actors in education.
+Learning Analytics as part of Databased Education becomes increasing interest. At least through the Paper from SWK, outlined the importants of data driven develeopement of schools, classes and students. Gen AI provides different possibilitys in learning analytics. However it´s not clear yet in which way Gen AI can support in learning analytics concrete, which data are important and how to use the data through educational stakeholder. 
 
 ## Research Objectives
 
-- **Clarify AI's authentic role** in supporting teachers with data collection, interpretation, and designing intervention opportunities for self-regulated learning
-- **Understand role and function distribution** between teachers, students, and AI systems in fostering SRL
-- **Identify synergies** between generative AI and teacher expertise in supporting motivational and metacognitive self-regulation
-- **Recognize challenges and requirements** for successful AI-human collaboration in educational contexts
+- **AI in learning analytics** in supporting teachers with data collection, interpretation, and designing intervention opportunities for self-regulated learning
+- **Understand role of learning analytics** 
+- **Identify patterns in use of learning analytics** between generative AI and teacher expertise in supporting motivational and metacognitive self-regulation
+- **Recognize challenges and requirements** for successful us of AI in learning analytics
 
 ## Research Questions
 
