@@ -1,59 +1,59 @@
-# Thema
+# Topic
 
 A Living Systematic Review of AI-Driven Learning Analytics in Education: Data Practices, Generative AI, Educational Decision-Making, and Human–AI Interaction
 
-Die systematische Übersicht untersucht, wie KI-basierte Verfahren in Bildungskontexten zur Erfassung, Analyse, Interpretation und Visualisierung von Lernerdaten eingesetzt werden. Ein besonderer Fokus liegt auf den Möglichkeiten generativer KI für lernbezogene Entscheidungsprozesse sowie auf den Rollen und Interaktionsmustern von Lernenden, Studierenden und Lehrenden.
+This systematic review examines how AI-based approaches are used in educational contexts to collect, analyze, interpret, and visualize learner data. Particular attention is paid to the use of generative AI, educational decision-making, and the interaction between learners, educators, and AI systems.
 
-## Forschungsfragen
+## Research Questions
 
-### Forschungsfrage 1: Nutzung KI-basierter Ansätze
+### Research Question 1: Use of AI-Based Approaches
 
 **How are AI-based approaches used to collect, analyze, interpret, and visualize learner data in educational settings?**
 
-Diese Forschungsfrage untersucht insbesondere:
+This research question focuses in particular on:
 
-- welche Arten von Lernerdaten erfasst und verarbeitet werden;
-- welche KI-Verfahren und Modelle zur Analyse, Interpretation und Vorhersage eingesetzt werden;
-- wie KI-basierte Lernanalysen visualisiert, erklärt und an Lernende oder Lehrende kommuniziert werden; und
-- welche pädagogischen, technischen und organisatorischen Kontexte für den Einsatz beschrieben werden.
+- the types of learner data that are collected and processed;
+- the AI methods and models used for analysis, interpretation, and prediction;
+- how AI-based learning analytics are visualized, explained, and communicated to learners or educators; and
+- the pedagogical, technical, and organizational contexts in which their use is described.
 
-### Forschungsfrage 2: Möglichkeiten generativer KI für Bildungsentscheidungen
+### Research Question 2: Possibilities of Generative AI for Educational Decision-Making
 
 **What possibilities do Gen AI-driven learning analytics offer for supporting educational decision-making by students and educators?**
 
-Diese Forschungsfrage untersucht insbesondere:
+This research question focuses in particular on:
 
-- wie generative KI Lernanalysen zusammenfasst, erklärt, kontextualisiert oder dialogisch zugänglich macht;
-- welche Entscheidungen von Lernenden und Lehrenden unterstützt werden, beispielsweise zu Lernstrategien, Zielsetzung, Lernplanung, Feedback, Bewertung, Unterrichtsplanung oder individueller Förderung;
-- welche Formen von Empfehlungen, Prognosen, Feedback oder Entscheidungshilfen generiert werden; und
-- welche Chancen und Grenzen für die Qualität, Transparenz, Nachvollziehbarkeit und pädagogische Nutzung dieser Entscheidungen berichtet werden.
+- how generative AI summarizes, explains, contextualizes, or makes learning analytics accessible through dialogue;
+- which decisions by learners and educators are supported, for example decisions concerning learning strategies, goal setting, learning planning, feedback, assessment, lesson planning, or individualized support;
+- which forms of recommendations, predictions, feedback, or decision support are generated; and
+- which opportunities and limitations are reported regarding the quality, transparency, explainability, and pedagogical use of these decisions.
 
-### Forschungsfrage 3: Rollen und Interaktionsmuster
+### Research Question 3: Roles and Interaction Patterns
 
 **What roles and interaction patterns are reported for students and educators in the use of AI-driven learning analytics?**
 
-Diese Forschungsfrage untersucht insbesondere:
+This research question focuses in particular on:
 
-- welche Rollen Lernende und Lehrende bei der Nutzung KI-gestützter Lernanalysen übernehmen;
-- wie Lernende, Lehrende und KI-Systeme miteinander interagieren;
-- wie Aufgaben, Verantwortlichkeiten, Entscheidungshoheit und Kontrolle zwischen Menschen und KI verteilt werden;
-- welche Formen der Zusammenarbeit, Beratung, Interpretation, Überwachung und gemeinsamen Entscheidungsfindung beschrieben werden; und
-- welche Anforderungen an Kompetenzen, Vertrauen, Transparenz, Datenschutz und menschliche Aufsicht entstehen.
+- the roles that learners and educators assume when using AI-supported learning analytics;
+- how learners, educators, and AI systems interact with one another;
+- how tasks, responsibilities, decision-making authority, and control are distributed between humans and AI;
+- which forms of collaboration, consultation, interpretation, monitoring, and joint decision-making are described; and
+- which requirements arise with regard to competencies, trust, transparency, data protection, and human oversight.
 
 ---
 
-## Begriffsverständnis und Untersuchungsrahmen
+## Definitions and Scope of the Review
 
-- **KI-basierte Ansätze** umfassen unter anderem maschinelles Lernen, Deep Learning, natürliche Sprachverarbeitung, Vorhersagemodelle, Empfehlungssysteme, intelligente tutorielle Systeme, Lernermodellierung und generative KI beziehungsweise Large Language Models.
-- **Lernanalysen** umfassen die Erfassung, Aufbereitung, Analyse, Interpretation, Visualisierung und Kommunikation von Daten über Lernende, Lernaktivitäten, Lernprozesse, Leistungen, Interaktionen oder Lernkontexte.
-- **Generative-KI-gestützte Lernanalysen** bezeichnen Anwendungen, in denen generative KI Lernanalysen erzeugt, zusammenfasst, erklärt, visualisiert, dialogisch zugänglich macht oder zur Entwicklung von Empfehlungen und Entscheidungshilfen nutzt.
-- **Bildungsbezogene Entscheidungsfindung** umfasst Entscheidungen von Lernenden und Lehrenden über Lernziele, Lernstrategien, Lernplanung, Feedback, Bewertung, Unterricht, Interventionen, individuelle Unterstützung und die Gestaltung von Lernangeboten.
-- **Rollen und Interaktionsmuster** beziehen sich auf die Tätigkeiten, Verantwortlichkeiten, Kommunikationsformen und Beziehungen zwischen Lernenden, Lehrenden, KI-Systemen und weiteren Bildungskontexten.
+- **AI-based approaches** include, among others, machine learning, deep learning, natural language processing, predictive models, recommender systems, intelligent tutoring systems, learner modeling, and generative AI.
+- **Learning analytics** comprises the collection, preparation, analysis, interpretation, visualization, and communication of data about learners, learning activities, learning processes, performance, interactions, or educational contexts.
+- **Generative-AI-supported learning analytics** refers to applications in which generative AI produces, summarizes, explains, visualizes, or makes learning analytics accessible through dialogue, or supports the development of educational recommendations, feedback, or decision support.
+- **Educational decision-making** comprises decisions by learners and educators concerning learning goals, learning strategies, learning planning, feedback, assessment, teaching, interventions, individualized support, and the organization of learning environments.
+- **Roles and interaction patterns** refer to the activities, responsibilities, forms of communication, and relationships among learners, educators, AI systems, and other actors in educational contexts.
 
-## Historische Forschungsfragen (initial)
+## Historical Research Questions (Initial)
 
-Die folgenden Fragen dokumentieren die ursprüngliche thematische Ausrichtung der Untersuchung und werden nicht mehr als zentrale Forschungsfragen verwendet:
+The following questions document the original thematic focus of the review and are no longer used as its central research questions:
 
-- Lehrkräfte versus generative KI: Welche Synergieeffekte gibt es?
-- Welche Schlüsselpunkte gibt es für die Zusammenarbeit von generativer KI und Lehrkräften zur Förderung motivationaler Selbstregulation?
-- Wie unterscheiden sich die Stärken von Lehrkräften und generativer KI bei der Förderung der Selbstregulation?
+- Teachers versus generative AI: What synergies exist?
+- What are the key points of collaboration between generative AI and teachers for promoting motivational self-regulation?
+- How do the strengths of teachers and generative AI differ in promoting self-regulation?
